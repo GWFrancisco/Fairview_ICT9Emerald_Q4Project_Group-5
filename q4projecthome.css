@@ -1,0 +1,59 @@
+body{
+	background-image: url(https://i.pinimg.com/originals/89/8e/89/898e890558ea37412049ccbd8997de0d.gif);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+#search{
+	background-image: linear-gradient(#133965, #2f5f9d, #3b78a8);
+	border: 0px;
+}
+#navbar{
+	background-image: linear-gradient(#133965, #2f5f9d, #3b78a8, #2d85bf, #245f87, #041b46);
+	border: 0px;
+}
+#navwords{
+	color: black;
+}
+#logo{
+	height: 35px;
+	width: 35px;
+}
+#title{
+	color: white;
+	background-image: linear-gradient(#133965, #2f5f9d, #3b78a8);
+	width: 650px;
+	height: 50px;
+	opacity: 0.9;
+}
+footer{
+	color: white;
+	position: fixed ; bottom: 0px; right: 50px; left: 50px;
+}
+#profileinfo{
+	width: 50px;
+	background-color: #9b4f96;
+	opacity: 0.9;
+	border: hidden;
+}
+#table{
+	width: 500px;
+}
+th{
+	text-align: center;
+}
+#info1{
+	background-color: #5d00c4;
+	border-collapse: collapse;
+	border-color: black;
+}
+#info2{
+	background-color: #7200d8;
+	border-collapse: collapse;
+	border-color: black;
+}
+#info3{
+	background-color: #5d00c4;
+	border-collapse: collapse;
+	border-color: black;
+}
